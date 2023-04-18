@@ -73,7 +73,7 @@ In this project, I use Geopandas to visualise data on deprivation levels in Lond
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-View code on Colab
+
 
 ---
 
