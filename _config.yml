@@ -1,15 +1,38 @@
 title: someet singh # your name (or website title) here
-logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
+logo: "/images/isro_1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
+    1 Year in software development industry as full-time with primary focus on Build, Release. 
+  - Experience With deep learning libraries pytorch, tensorflow and openCV.
+  - Experience in eda , model building , model tuning & running Hyper-parameter test cases of ML models.
+  - Experience in building machine learning and deep learning models.
+  - Experience in database such as sql, nosql, timescale-db..
+  - Experience with kafka streaming service.
+  - Experience in creating custom docker, images using docker file. & docker-compose 
+  - Experience working on docker hub, creating docker images.
+  - Experience in building ML & DL api using fastapi, flask.
+  - Experience in deploying mL models in heroku and aws.
+  - Experience in creating grafana dashboard for monitoring.
+  - Experience in creating log monitoring dashboard for multiple app nodes. 
+  - Experience in automation of application installation and deployment using shell scripting.
+  - Experience in building software workflow pipeline & architecture.
+  Smart India hackathon Winner 2022 | ISRO
   <br><br>
-  Ranked in top 10% of undergraduate cohort at Cambridge University.
+  • 1st Place Winner - All India ISRO (Indian Space Research
+  Organization) Smart India Hackathon
+  2022 (SIH) for the problem Statement “Deep learning-based
+  Cyclone intensity Estimation
+  using INSAT-3D IR imagery” our solution - “worked on
+  providing solution for detecting
+  cyclone and estimation of cyclone intensity Also created a web
+  app for the same.”
+  • B'Tech in Computer Science and Engineering from Galgotias University, Greater Noida (2015-2019) CGPA - 6.67
+  • M'Tech in Data Science from Amity University, Noida (2020-2022) CGPA - 9.2 (First Division)
   <br><br>
-  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/someetsingh/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
 
 colors:
   crimson: '#900C3F'
