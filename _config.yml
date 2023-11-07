@@ -14,11 +14,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   providing solution for detecting
   cyclone and estimation of cyclone intensity Also created a web
   app for the same.
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/someetsingh/">View my LinkedIn Profile</a> 
   <br>
   <a href="https://drive.google.com/file/d/17Cd7Slrcsrt1LlOc-OmA9pOleolldDiw/view?usp=sharing">View my Resume</a> 
-  <br><br>
+  <br>
   <a href="https://github.com/Aesthethic0de">View my Github Profile</a> 
   <br>
 theme: jekyll-theme-minimal
