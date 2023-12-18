@@ -1,6 +1,22 @@
-## Selected projects in data science, machine learning and NLP
+## Project Portfolio basedon NLP, CV and ML
 
----
+
+### Intelligent OCR + NER
+
+Intelligent OCR (Optical Character Recognition) coupled with NER (Named Entity Recognition) forms a powerful combination for extracting structured information from unstructured text data.
+
+Here's how they work together:
+
+*1. Intelligent OCR* : OCR technology is used to convert different types of documents, such as scanned images, PDFs, or handwritten text, into machine-readable text. Intelligent OCR goes a step further by employing advanced algorithms, often powered by machine learning and AI, to not only recognize characters but also understand the layout, format, and context of the text. This enables accurate extraction of information from diverse sources.
+
+*2. NER (Named Entity Recognition)*: NER is a subset of natural language processing (NLP) that focuses on identifying and categorizing named entities within the text. Named entities can be anything from names of people, organizations, locations, dates, quantities, and more. NER algorithms use various techniques, such as rule-based systems or machine learning models, to recognize and classify these entities within the text.
+
+When combined, Intelligent OCR and NER enhance the capabilities of data extraction and analysis from documents
+
+<img src="images/ocr_ner.gif?raw=true" width="800"/>/>
+
+[View code on github](https://github.com/Aesthethic0de/Intelligent_OCR_NER)
+
 
 ### Intelligent Video Surveillance Based on YOLO
 
