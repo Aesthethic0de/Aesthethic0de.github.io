@@ -27,6 +27,8 @@ STT + Diarization" is a comprehensive speech processing solution integrating Spe
 
 <img src="images/STT.gif?raw=true" width="800"/>
 
+[View code on github](https://github.com/Aesthethic0de/STT_Diarization)
+
 
 
 ### Intelligent Video Surveillance Based on YOLO
