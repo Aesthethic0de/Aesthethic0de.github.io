@@ -54,7 +54,7 @@ The inputs of various sensors for different wafers have been provided. In electr
 
 <img src="images/technical_fault.png?raw=true" width="280"/>  <img src="images/fault_architecture.png?raw=true" width="260"/>
 
-View code on Colab
+[View code on github](https://github.com/Aesthethic0de/Wafer_Fault_Detection_2.0)
 
 ---
 
