@@ -115,19 +115,6 @@ This project aimed to develop a predictive model for estimating the strength of 
 
 ---
 
-<!-- ### Clothing apparel classification using MobileNetV2
-In this project, I used Convolutional Neural Networks to classify clothing apparel from the Fashion  dataset which is trained on 10 classes having 3000+ images of different category which is also deployed on aws elastic beanstalk.
-
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
-
-<img src="images/output4.jpg?raw=true" width="200" />
-
-[view code on github](https://github.com/Aesthethic0de/Fashion-Apparel-classification)
-
-
---- -->
-
 ### Geospatial analysis of deprivation in London
 
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
@@ -148,21 +135,9 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 [view code on github](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
-<!-- ---
+---
 
-### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
-
-In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy.
-
-<!-- <img src="images/random_intercept.png?raw=true"/> -->
-
-[![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-
-View code on Github
-
---- -->
-
-## Gen-AI Projects
+## Gen-AI Projects 
 
 Project 1: Construct a dynamic question-answering application with the unparalleled capabilities of LangChain, OpenAI, and Hugging Face Spaces.
 
@@ -195,6 +170,8 @@ Project 14 - Text to SQL Query Helper Tool: Convert natural language text into s
 Project 15 - Customer Care Call Summary Alert - Concise notification highlighting key points and outcomes from recent customer service calls, aiding quick understanding and response
 
 Project 16 - Smart ATS for Job Seekers
+
+---
 
 <!-- ### Did lockdowns influence the types of music people were listening to?
 COVID-19 has created an ostensible paradox in the music industry. In the four months after the World Health Organisation declared COVID-19 a pandemic on March 11, 2020, digital music streaming providers such as Spotify and Apple saw their share prices soar by 114% and 49% respectively (Google 2021b). Over the same period, however, worldwide digital music consumption dropped by an average of 12.5% (Sim et al. 2021). One of the reasons which has been suggested for this drop is the decline in certain types of mobility - especially driving, which accounts for 29% of music consumption, and commuting, as 54% of commuters listen to music while commuting (Nielsen 2015, 2017; Sim et al. 2021). What remains unclear, however, is whether and how changes to levels of mobility influenced the types of music to which people were listening. In this project, I investigate these questions using the Spotify API.
