@@ -1,4 +1,4 @@
-## Project Portfolio basedon NLP, CV and ML
+## Project Portfolio basedon NLP, CV , ML and GenAI
 
 ### Intelligent OCR + NER
 
@@ -148,7 +148,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 [view code on github](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
----
+<!-- ---
 
 ### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
 
@@ -160,14 +160,39 @@ In many tasks, failing to account for the hierarchical relations and autocorrela
 
 View code on Github
 
----
+--- -->
 
-## Skills-based projects
+## Gen-AI Projects
 
-A selection of smaller projects demonstrating specific data science and ML skills.
+Project 1: Construct a dynamic question-answering application with the unparalleled capabilities of LangChain, OpenAI, and Hugging Face Spaces.
 
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
+Project 2: Develop an engaging conversational bot using LangChain and OpenAI to deliver an interactive user experience.
+
+Project 3: Create an AI-powered app tailored for children, facilitating the discovery of related classes of objects and fostering educational growth.
+
+Project 4: Build a captivating marketing campaign app that utilizes the persuasive potential of well-crafted sales copy, boosting sales and brand reach.
+
+Project 5: Develop a ChatGPT clone with an added summarization feature, delivering a versatile and invaluable chatbot experience.
+
+Project 6: MCQ Quiz Creator App - Seamlessly create multiple-choice quizzes for your students using LangChain and Pinecone.
+
+Project 7: CSV Data Analysis Toll - Helps you analyze your CSV file by answering your queries about its data.
+
+Project 8: Youtube Script Writing Tool -  Effortlessly create compelling YouTube scripts with this user-friendly and efficient script-writing tool.
+
+Project 9 - Support Chat Bot For Your Website - Helps your visitors/customers to find the relevant data or blog links that can be useful to them.
+
+Project 10 - Automatic Ticket Classification Tool - The Automatic Ticket Classification Tool categorizes support tickets based on content to streamline ticket management and response processes.
+
+Project 11 - HR - Resume Screening  Assistance - HR project using AI to assist in screening resumes, optimizing the hiring process with smart analysis and recommendations
+
+Project 12 - Email Generator using LLAMA 2- The Email Generator is a tool that automatically creates customized emails, saving time and effort in crafting personalized messages.
+
+Project 13 - Invoice Extraction Bot using LLAMA 2- Invoice Extraction Bot: AI-powered tool that extracts key details from invoices accurately and efficiently. Simplify your data entry process.
+
+Project 14 - Text to SQL Query Helper Tool: Convert natural language text into structured SQL queries effortlessly using the Text to SQL Query Tool for streamlined database interaction and data retrieval.
+
+Project 15 - Customer Care Call Summary Alert - Concise notification highlighting key points and outcomes from recent customer service calls, aiding quick understanding and response
 
 <!-- ### Did lockdowns influence the types of music people were listening to?
 COVID-19 has created an ostensible paradox in the music industry. In the four months after the World Health Organisation declared COVID-19 a pandemic on March 11, 2020, digital music streaming providers such as Spotify and Apple saw their share prices soar by 114% and 49% respectively (Google 2021b). Over the same period, however, worldwide digital music consumption dropped by an average of 12.5% (Sim et al. 2021). One of the reasons which has been suggested for this drop is the decline in certain types of mobility - especially driving, which accounts for 29% of music consumption, and commuting, as 54% of commuters listen to music while commuting (Nielsen 2015, 2017; Sim et al. 2021). What remains unclear, however, is whether and how changes to levels of mobility influenced the types of music to which people were listening. In this project, I investigate these questions using the Spotify API.
