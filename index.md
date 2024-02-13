@@ -38,8 +38,21 @@ This repository contains a Python script for detecting vehicles in a video strea
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
 
-
 <img src="images/vehicle_gif.gif?raw=true" width="800"/>
+
+[view code on github](https://github.com/Aesthethic0de/vehicle-entry-count-YOLO-NAS)
+
+---
+
+### Vehicle Detection and Tracking with Heatmap Overlay
+
+This Python script detects vehicles in a video stream, tracks their movement, and overlays a heatmap to visualize their presence over time. It utilizes a pre-trained YOLO (You Only Look Once) model for object detection and the SORT (Simple Online and Realtime Tracking) algorithm for object tracking.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
+
+<img src="images/heatmap.gif?raw=true" width="800"/>
+
+[view code on github](https://github.com/Aesthethic0de/Vehicles_Intensity_Heatmap_YOLONAS)
 
 ---
 
