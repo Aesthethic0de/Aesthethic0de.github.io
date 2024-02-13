@@ -1,4 +1,4 @@
-## Project Portfolio basedon NLP, CV , ML and GenAI
+## Project Portfolio (NLP, CV , ML and GenAI)
 
 ### Intelligent OCR + NER
 
