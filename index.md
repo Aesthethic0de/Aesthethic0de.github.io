@@ -188,7 +188,6 @@ Project 14 - Text to SQL Query Helper Tool: Convert natural language text into s
 
 Project 15 - Customer Care Call Summary Alert - Concise notification highlighting key points and outcomes from recent customer service calls, aiding quick understanding and response
 
-Project 16 - Smart ATS for Job Seekers
 
 ---
 
