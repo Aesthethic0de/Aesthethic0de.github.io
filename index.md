@@ -55,6 +55,25 @@ This Python script detects vehicles in a video stream, tracks their movement, an
 [view code on github](https://github.com/Aesthethic0de/Vehicles_Intensity_Heatmap_YOLONAS)
 
 ---
+### SMART ATS
+Smart ATS is a Streamlit application powered by Google's GenerativeAI that helps users improve their resumes by evaluating them against a provided job description. This intelligent tool acts as a skilled Application Tracking System (ATS), offering insights into matching percentages, missing keywords, and profile summaries.
+
+#### Features:
+- Resume Evaluation: Upload your resume in PDF format and paste the job description to receive an evaluation based on keyword matching and profile relevance.
+- Intelligent Analysis: Smart ATS utilizes Google's GenerativeAI to deeply understand the tech field, including software engineering, data science, data analysis, and big data engineering, to provide accurate assessments.
+- Competitive Advantage: In a highly competitive job market, Smart ATS assists users in optimizing their resumes by highlighting areas for improvement and suggesting relevant keywords.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
+[![](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
+[![](https://img.shields.io/badge/Google_Gemini-white?logo=Google)](#)
+
+<img src="images/ATS.gif?raw=true" width="800"/>
+
+[view code on github](https://github.com/Aesthethic0de/ATS_resume_checker)
+
+---
 
 ### Intelligent Video Surveillance Based on YOLO
 
